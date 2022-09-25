@@ -10,7 +10,7 @@ Below we discuss how to run the `Jupyter notebooks` using **Docker**:
 To run the notebooks locally, and persist changes made to the notebooks, first
 `git clone` the repo:
 ```
-git clone https://github.com/RagingTiger/
+git clone https://github.com/RagingTiger/Singular-Value-Decomposition-PyCon2018.git
 ```
 Then `cd Singular-Value-Decomposition-PyCon2018` and run the following:
 ```
